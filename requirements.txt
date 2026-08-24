@@ -1,0 +1,13 @@
+torch
+torchaudio
+librosa
+numba
+numpy
+scikit-learn
+xgboost
+easydict
+einops
+joblib
+fastapi[standard]
+uvicorn
+python-multipart
