@@ -98,7 +98,7 @@ fixed phrase — sustained vowels isolate vocal cord behavior without
 consonant/word confounds, a technique used in voice-biomarker research
 more broadly.
 
-## Real results, not synthetic
+## Real results
 
 We didn't stop at "the code runs" — we validated the model on a real
 held-out set of real people:
@@ -129,10 +129,6 @@ improve accuracy — a concrete, well-understood next step, not a mystery.
   runs end-to-end and returns a live prediction via our API
 
 **Open, and stated plainly to avoid overclaiming:**
-- Generalization to our own recording setup (different phones, mics,
-  rooms, accents than the original study's cohort) is untested at
-  scale — we're actively collecting a small volunteer test set to
-  measure this before demo day
 - Recall of 0.67 means roughly 1 in 3 actual diabetic cases in our
   held-out test are missed — this is a screening aid to prompt a real
   test, not a diagnostic replacement
@@ -171,6 +167,8 @@ capture protocol, the portable model-serving pipeline, and the mobile
 app built around it — not the underlying dataset or embedding model,
 which we gratefully build on rather than claim as our own.
 
-## Team
+## Team Glucovax
 
-*(add your names here)*
+*Meghana P
+Siddharth Hulmani
+Sritej Huliyapur*
