@@ -23,8 +23,7 @@ scalable to anyone with a phone.
 ## What the research actually says (and what it doesn't)
 
 Before writing a line of code, we went through the published literature
-to understand what's actually been shown to work, rather than assume
-voice-glucose detection is either solved or fantasy. Four papers shaped
+to understand what's actually been shown to work, Four papers shaped
 our approach directly:
 
 1. **Kaufman et al., "Acoustic Analysis and Prediction of Type 2
